@@ -1,1 +1,1 @@
-FROM nxdemos/hello
+FROM nginxdemos/hello
